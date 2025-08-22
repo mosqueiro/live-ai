@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   live-ai:
     image: mosqueiro/live-ai

@@ -4,6 +4,14 @@ Live AI é um software inovador de streaming do YouTube que usa inteligência ar
 
 **🔑 Obtenha sua chave de API em: [https://live.1click.ai/](https://live.1click.ai/)**
 
+## Documentação
+
+- [🔑 Obtendo Sua Chave de API Gratuita](OBTENDO_CHAVE_API.md) - Como obter sua chave de API gratuita
+- [📖 Guia de Instalação](INSTALLATION_PT_BR.md) - Instruções completas de instalação
+- [🎥 Configuração do YouTube Live](YOUTUBE_LIVE_PT_BR.md) - Como criar e configurar sua transmissão ao vivo
+- [⚙️ Configuração](CONFIGURATION_PT_BR.md) - Configurações e ajustes do sistema
+- [🔧 Solução de Problemas](TROUBLESHOOTING_PT_BR.md) - Problemas comuns e soluções
+
 ## Funcionalidades
 
 - 🤖 **Integração com IA**: Usa inteligência artificial para melhorar a qualidade do streaming
@@ -11,86 +19,14 @@ Live AI é um software inovador de streaming do YouTube que usa inteligência ar
 - 💾 **Dados Persistentes**: Configurações e dados salvos automaticamente
 - 🐳 **Pronto para Docker**: Instalação e execução fácil com Docker
 
-## Instalação Docker
+## Início Rápido
 
-### Pré-requisitos
+1. **Obtenha sua chave de API** em [https://live.1click.ai/](https://live.1click.ai/)
+2. **Instale** usando Docker (recomendado) ou baixe dos [Releases](https://github.com/mosqueiro/live-ai/releases)
+3. **Configure** sua transmissão ao vivo do YouTube
+4. **Inicie o streaming** com automação alimentada por IA
 
-- Docker e Docker Compose instalados
-
-### Execução
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/mosqueiro/live-ai.git
-cd live-ai
-```
-
-2. Execute com Docker Compose:
-
-```bash
-docker-compose up -d
-```
-
-O serviço estará disponível em `http://localhost:8080`
-
-### ⚠️ **MUITO IMPORTANTE: Volumes Persistentes**
-
-**⚠️ ATENÇÃO: Se você não configurar os volumes persistentes, TODOS os seus dados serão perdidos quando o container for reiniciado!**
-
-Os dados da aplicação são salvos na pasta `./data` do host, mapeada para `/app/data` no container, garantindo que suas configurações sejam mantidas mesmo após reinicializações.
-
-**Por que é crucial:**
-
-- Sem volumes persistentes, suas configurações do YouTube serão perdidas
-- Seus dados de streaming e histórico serão apagados
-- Você precisará reconfigurar tudo novamente a cada reinicialização
-
-## Downloads
-
-Arquivos executáveis estão disponíveis na seção [Releases](https://github.com/mosqueiro/live-ai/releases) para download direto.
-
-## Configuração
-
-1. Acesse a interface web em `http://localhost:8080`
-2. Configure suas credenciais do YouTube
-3. Defina os parâmetros de streaming
-4. Inicie sua transmissão ao vivo com IA!
-
-## Instalação por Sistema Operacional
-
-### Instalação macOS
-
-1. Baixe e extraia o arquivo ZIP
-2. Abra o Terminal e navegue até a pasta extraída
-3. Execute: `./live-ai`
-
-**Nota**: Os binários são assinados e notarizados pelo desenvolvedor para segurança.
-
-### Instalação Linux
-
-1. Baixe e extraia o arquivo ZIP
-2. Abra o Terminal e navegue até a pasta extraída
-3. Execute: `./live-ai`
-
-**Nota**: Certifique-se de que o arquivo tem permissões de execução. Se necessário, execute: `chmod +x live-ai`
-
-### Instalação Windows
-
-1. Baixe e extraia o arquivo ZIP
-2. Clique duas vezes em `live-ai.exe` ou execute pelo Prompt de Comando
-
-## Versões Disponíveis
-
-Na seção [Releases](https://github.com/mosqueiro/live-ai/releases) você encontrará 3 versões executáveis:
-
-- **macOS**: Binário executável para macOS
-- **Linux**: Binário executável para Linux
-- **Windows**: Executável `.exe` para Windows
-
-**Versão Docker**: Disponível no repositório através do arquivo `docker-compose.yml` (Recomendado)
-
-A versão Docker é a mais recomendada pois oferece isolamento completo e configuração automática dos volumes persistentes.
+Para instruções detalhadas, veja os links de documentação acima.
 
 ## Suporte
 
