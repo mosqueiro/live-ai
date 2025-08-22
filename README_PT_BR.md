@@ -82,12 +82,13 @@ Arquivos executáveis estão disponíveis na seção [Releases](https://github.c
 
 ## Versões Disponíveis
 
-Na seção [Releases](https://github.com/mosqueiro/live-ai/releases) você encontrará 4 versões diferentes:
+Na seção [Releases](https://github.com/mosqueiro/live-ai/releases) você encontrará 3 versões executáveis:
 
-- **Docker** (Recomendado): Use o `docker-compose.yml` para instalação mais fácil e isolada
 - **macOS**: Binário executável para macOS
 - **Linux**: Binário executável para Linux
 - **Windows**: Executável `.exe` para Windows
+
+**Versão Docker**: Disponível no repositório através do arquivo `docker-compose.yml` (Recomendado)
 
 A versão Docker é a mais recomendada pois oferece isolamento completo e configuração automática dos volumes persistentes.
 

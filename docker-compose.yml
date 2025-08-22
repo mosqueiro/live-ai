@@ -1,17 +1,17 @@
-version: '3.8'
+version: "3.9"
 
 services:
   live-ai:
     image: mosqueiro/live-ai
     container_name: live-ai
     ports:
-      - "3000:3000"
+      - "8080:8080"
     volumes:
       - ./data:/app/data
     environment:
       - STREAM_AUTO_START=true
     restart: unless-stopped
-    
+
 volumes:
   data:
     driver: local

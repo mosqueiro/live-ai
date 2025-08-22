@@ -82,12 +82,13 @@ Executable files are available in the [Releases](https://github.com/mosqueiro/li
 
 ## Available Versions
 
-In the [Releases](https://github.com/mosqueiro/live-ai/releases) section you'll find 4 different versions:
+In the [Releases](https://github.com/mosqueiro/live-ai/releases) section you'll find 3 executable versions:
 
-- **Docker** (Recommended): Use the `docker-compose.yml` for easier and isolated installation
 - **macOS**: Executable binary for macOS
 - **Linux**: Executable binary for Linux
 - **Windows**: `.exe` executable for Windows
+
+**Docker Version**: Available in the repository via `docker-compose.yml` file (Recommended)
 
 The Docker version is most recommended as it offers complete isolation and automatic configuration of persistent volumes.
 
