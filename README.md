@@ -2,6 +2,8 @@
 
 Live AI is an innovative YouTube streaming software that uses artificial intelligence to automate and optimize your live streams.
 
+**🔑 Get your API key at: [https://live.1click.ai/](https://live.1click.ai/)**
+
 ## Features
 
 - 🤖 **AI Integration**: Uses artificial intelligence to improve streaming quality
@@ -32,17 +34,17 @@ docker-compose up -d
 
 The service will be available at `http://localhost:8080`
 
-### ⚠️ **MUITO IMPORTANTE: Persistent Volumes**
+### ⚠️ **VERY IMPORTANT: Persistent Volumes**
 
-**⚠️ ATENÇÃO: Se você não configurar os volumes persistentes, TODOS os seus dados serão perdidos quando o container for reiniciado!**
+**⚠️ WARNING: If you don't configure persistent volumes, ALL your data will be lost when the container is restarted!**
 
 Application data is saved in the host's `./data` folder, mapped to `/app/data` in the container, ensuring your settings are maintained even after restarts.
 
-**Por que é crucial:**
+**Why it's crucial:**
 
-- Sem volumes persistentes, suas configurações do YouTube serão perdidas
-- Seus dados de streaming e histórico serão apagados
-- Você precisará reconfigurar tudo novamente a cada reinicialização
+- Without persistent volumes, your YouTube settings will be lost
+- Your streaming data and history will be erased
+- You'll need to reconfigure everything again after each restart
 
 ## Downloads
 
@@ -55,7 +57,7 @@ Executable files are available in the [Releases](https://github.com/mosqueiro/li
 3. Set streaming parameters
 4. Start your AI-powered live stream!
 
-## Instalação por Sistema Operacional
+## Operating System Installation
 
 ### macOS Installation
 
@@ -78,16 +80,16 @@ Executable files are available in the [Releases](https://github.com/mosqueiro/li
 1. Download and extract the ZIP file
 2. Double-click on `live-ai.exe` or run from Command Prompt
 
-## Versões Disponíveis
+## Available Versions
 
-No [Releases](https://github.com/mosqueiro/live-ai/releases) você encontrará 4 versões diferentes:
+In the [Releases](https://github.com/mosqueiro/live-ai/releases) section you'll find 4 different versions:
 
-- **Docker** (Recomendado): Use o `docker-compose.yml` para instalação mais fácil e isolada
-- **macOS**: Binário executável para macOS
-- **Linux**: Binário executável para Linux
-- **Windows**: Executável `.exe` para Windows
+- **Docker** (Recommended): Use the `docker-compose.yml` for easier and isolated installation
+- **macOS**: Executable binary for macOS
+- **Linux**: Executable binary for Linux
+- **Windows**: `.exe` executable for Windows
 
-A versão Docker é a mais recomendada pois oferece isolamento completo e configuração automática dos volumes persistentes.
+The Docker version is most recommended as it offers complete isolation and automatic configuration of persistent volumes.
 
 ## Support
 
