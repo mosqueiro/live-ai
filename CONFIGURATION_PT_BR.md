@@ -4,10 +4,28 @@ Configure as configurações do seu sistema Live AI.
 
 ## Interface Web
 
-1. Acesse a interface web em `http://localhost:8080`
-2. Configure suas credenciais do YouTube
-3. Defina os parâmetros de streaming
-4. Inicie sua transmissão ao vivo com IA!
+A interface web em `http://localhost:8080` serve para você gerenciar o streaming ou enviar arquivos.
+
+**Importante**: Todas as configurações devem ser feitas em [https://live.1click.ai/](https://live.1click.ai/)
+
+### Gerenciador de Streaming
+
+O gerenciador de streaming roda via web na porta 8080 onde o instalador estiver rodando.
+
+#### Funcionalidades:
+
+- **Interface Visual Fácil**: Interface web simples e intuitiva
+- **Configurações do Locutor**: Veja as configurações do locutor como ele vai se comportar
+- **Mídia de Fundo**: Mude as músicas ou vídeos de fundo que ficam girando na live
+- **Acompanhamento de Mensagens**: Acompanhe as mensagens que chegam de doação através do QR code da sua live
+
+![Interface do Gerenciador de Streaming](images/webui/1.png)
+
+![Configuração do Locutor](images/webui/2.png)
+
+![Gerenciamento de Mídia de Fundo](images/webui/3.png)
+
+![Monitoramento de Mensagens](images/webui/4.png)
 
 ## Configuração da Chave de API
 
