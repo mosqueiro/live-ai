@@ -2,6 +2,14 @@
 
 Configure as configurações do seu sistema Live AI.
 
+## Navegação
+
+- [← Voltar ao README](README_PT_BR.md)
+- [🔑 Obtendo Sua Chave de API Gratuita](OBTENDO_CHAVE_API.md)
+- [📖 Guia de Instalação](INSTALLATION_PT_BR.md)
+- [🎥 Configuração do YouTube Live](YOUTUBE_LIVE_PT_BR.md)
+- [🔧 Solução de Problemas](TROUBLESHOOTING_PT_BR.md)
+
 ## Interface Web
 
 A interface web em `http://localhost:8080` serve para você gerenciar o streaming ou enviar arquivos.

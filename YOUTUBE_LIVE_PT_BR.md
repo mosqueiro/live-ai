@@ -2,6 +2,14 @@
 
 Siga estes passos para criar sua transmissão ao vivo no YouTube:
 
+## Navegação
+
+- [← Voltar ao README](README_PT_BR.md)
+- [🔑 Obtendo Sua Chave de API Gratuita](OBTENDO_CHAVE_API.md)
+- [📖 Guia de Instalação](INSTALLATION_PT_BR.md)
+- [⚙️ Configuração](CONFIGURATION_PT_BR.md)
+- [🔧 Solução de Problemas](TROUBLESHOOTING_PT_BR.md)
+
 ## Passo 1: Abrir YouTube Studio
 
 Abra o YouTube Studio e clique em "Criar" → "Ir ao vivo"

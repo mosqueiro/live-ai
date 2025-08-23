@@ -2,6 +2,14 @@
 
 Problemas comuns e soluções para o Live AI.
 
+## Navegação
+
+- [← Voltar ao README](README_PT_BR.md)
+- [🔑 Obtendo Sua Chave de API Gratuita](OBTENDO_CHAVE_API.md)
+- [📖 Guia de Instalação](INSTALLATION_PT_BR.md)
+- [🎥 Configuração do YouTube Live](YOUTUBE_LIVE_PT_BR.md)
+- [⚙️ Configuração](CONFIGURATION_PT_BR.md)
+
 ## Problemas Comuns
 
 ### Serviço Não Inicia
@@ -50,7 +58,7 @@ Se você continuar enfrentando problemas:
 
 1. Verifique o guia de [Configuração](CONFIGURATION_PT_BR.md)
 2. Revise o guia de [Instalação](INSTALLATION_PT_BR.md)
-3. Abra uma issue no repositório GitHub
+3. Acesse nossa comunidade: [https://www.skool.com/1clickai](https://www.skool.com/1clickai)
 
 ## Logs
 

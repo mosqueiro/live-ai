@@ -30,7 +30,7 @@ For detailed instructions, see the documentation links above.
 
 ## Support
 
-For support and questions, open an issue in the GitHub repository.
+For support and questions, join our community: [https://www.skool.com/1clickai](https://www.skool.com/1clickai)
 
 ## License
 

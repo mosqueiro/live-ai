@@ -2,6 +2,14 @@
 
 Configure your Live AI system settings.
 
+## Navigation
+
+- [← Back to README](README.md)
+- [🔑 Getting Your Free API Key](GETTING_API_KEY.md)
+- [📖 Installation Guide](INSTALLATION.md)
+- [🎥 YouTube Live Setup](YOUTUBE_LIVE.md)
+- [🔧 Troubleshooting](TROUBLESHOOTING.md)
+
 ## Web Interface
 
 The web interface at `http://localhost:8080` is used to manage streaming and send files.

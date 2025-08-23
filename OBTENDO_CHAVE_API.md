@@ -2,6 +2,14 @@
 
 Siga estes passos para obter sua chave de API gratuita para o Live AI.
 
+## Navegação
+
+- [← Voltar ao README](README_PT_BR.md)
+- [📖 Guia de Instalação](INSTALLATION_PT_BR.md)
+- [🎥 Configuração do YouTube Live](YOUTUBE_LIVE_PT_BR.md)
+- [⚙️ Configuração](CONFIGURATION_PT_BR.md)
+- [🔧 Solução de Problemas](TROUBLESHOOTING_PT_BR.md)
+
 ## Passo 1: Cadastro no LivePix
 
 Cadastre-se em [https://livepix.gg/](https://livepix.gg/)

@@ -2,6 +2,14 @@
 
 Follow these steps to obtain your free API key for Live AI.
 
+## Navigation
+
+- [← Back to README](README.md)
+- [📖 Installation Guide](INSTALLATION.md)
+- [🎥 YouTube Live Setup](YOUTUBE_LIVE.md)
+- [⚙️ Configuration](CONFIGURATION.md)
+- [🔧 Troubleshooting](TROUBLESHOOTING.md)
+
 ## Step 1: Register on LivePix
 
 Register on [https://livepix.gg/](https://livepix.gg/)

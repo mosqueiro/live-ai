@@ -2,6 +2,14 @@
 
 Follow these steps to create your YouTube live stream:
 
+## Navigation
+
+- [← Back to README](README.md)
+- [🔑 Getting Your Free API Key](GETTING_API_KEY.md)
+- [📖 Installation Guide](INSTALLATION.md)
+- [⚙️ Configuration](CONFIGURATION.md)
+- [🔧 Troubleshooting](TROUBLESHOOTING.md)
+
 ## Step 1: Open YouTube Studio
 
 Open YouTube Studio and click on "Create" → "Go live"

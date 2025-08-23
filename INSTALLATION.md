@@ -2,6 +2,14 @@
 
 This guide covers all installation methods for Live AI.
 
+## Navigation
+
+- [← Back to README](README.md)
+- [🔑 Getting Your Free API Key](GETTING_API_KEY.md)
+- [🎥 YouTube Live Setup](YOUTUBE_LIVE.md)
+- [⚙️ Configuration](CONFIGURATION.md)
+- [🔧 Troubleshooting](TROUBLESHOOTING.md)
+
 ## Docker Installation (Recommended)
 
 ### Prerequisites
