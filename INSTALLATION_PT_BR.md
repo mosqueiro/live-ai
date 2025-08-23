@@ -37,44 +37,9 @@ Os dados da aplicação são salvos na pasta `./data` do host, mapeada para `/ap
 - Seus dados de streaming e histórico serão apagados
 - Você precisará reconfigurar tudo novamente a cada reinicialização
 
-## Instalação por Sistema Operacional
+## Instalação Docker Apenas
 
-### Instalação macOS
-
-1. Baixe e extraia o arquivo ZIP
-2. Abra o Terminal e navegue até a pasta extraída
-3. Execute: `./live-ai`
-
-**Nota**: Os binários são assinados e notarizados pelo desenvolvedor para segurança.
-
-### Instalação Linux
-
-1. Baixe e extraia o arquivo ZIP
-2. Abra o Terminal e navegue até a pasta extraída
-3. Execute: `./live-ai`
-
-**Nota**: Certifique-se de que o arquivo tem permissões de execução. Se necessário, execute: `chmod +x live-ai`
-
-### Instalação Windows
-
-1. Baixe e extraia o arquivo ZIP
-2. Clique duas vezes em `live-ai.exe` ou execute pelo Prompt de Comando
-
-## Versões Disponíveis
-
-Na seção [Releases](https://github.com/mosqueiro/live-ai/releases) você encontrará 3 versões executáveis:
-
-- **macOS**: Binário executável para macOS
-- **Linux**: Binário executável para Linux
-- **Windows**: Executável `.exe` para Windows
-
-**Versão Docker**: Disponível no repositório através do arquivo `docker-compose.yml` (Recomendado)
-
-A versão Docker é a mais recomendada pois oferece isolamento completo e configuração automática dos volumes persistentes.
-
-## Downloads
-
-Arquivos executáveis estão disponíveis na seção [Releases](https://github.com/mosqueiro/live-ai/releases) para download direto.
+O Live AI agora está disponível exclusivamente via Docker para a melhor experiência e segurança.
 
 ## Próximos Passos
 

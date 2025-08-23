@@ -37,44 +37,9 @@ Application data is saved in the host's `./data` folder, mapped to `/app/data` i
 - Your streaming data and history will be erased
 - You'll need to reconfigure everything again after each restart
 
-## Operating System Installation
+## Docker Installation Only
 
-### macOS Installation
-
-1. Download and extract the ZIP file
-2. Open Terminal and navigate to the extracted folder
-3. Run: `./live-ai`
-
-**Note**: The binaries are signed and notarized by the developer for security.
-
-### Linux Installation
-
-1. Download and extract the ZIP file
-2. Open Terminal and navigate to the extracted folder
-3. Run: `./live-ai`
-
-**Note**: Make sure the file has execution permissions. If needed, run: `chmod +x live-ai`
-
-### Windows Installation
-
-1. Download and extract the ZIP file
-2. Double-click on `live-ai.exe` or run from Command Prompt
-
-## Available Versions
-
-In the [Releases](https://github.com/mosqueiro/live-ai/releases) section you'll find 3 executable versions:
-
-- **macOS**: Executable binary for macOS
-- **Linux**: Executable binary for Linux
-- **Windows**: `.exe` executable for Windows
-
-**Docker Version**: Available in the repository via `docker-compose.yml` file (Recommended)
-
-The Docker version is most recommended as it offers complete isolation and automatic configuration of persistent volumes.
-
-## Downloads
-
-Executable files are available in the [Releases](https://github.com/mosqueiro/live-ai/releases) section for direct download.
+Live AI is now available exclusively via Docker for the best experience and security.
 
 ## Next Steps
 

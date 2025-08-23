@@ -22,7 +22,7 @@ Live AI é um software inovador de streaming do YouTube que usa inteligência ar
 ## Início Rápido
 
 1. **Obtenha sua chave de API** em [https://live.1click.ai/](https://live.1click.ai/)
-2. **Instale** usando Docker (recomendado) ou baixe dos [Releases](https://github.com/mosqueiro/live-ai/releases)
+2. **Instale** usando Docker
 3. **Configure** sua transmissão ao vivo do YouTube
 4. **Inicie o streaming** com automação alimentada por IA
 
